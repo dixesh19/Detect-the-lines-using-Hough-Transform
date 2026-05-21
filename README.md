@@ -109,26 +109,23 @@ plt.show()
 
 ### Input image 
 
-<img width="872" height="493" alt="image" src="https://github.com/user-attachments/assets/40c51131-f8bc-4b6f-959b-701fb2cfcbc9" />
+<img width="660" height="396" alt="image" src="https://github.com/user-attachments/assets/988592ca-ea74-4a8e-a031-3af7c24a8695" />
 
 ### grayscale image
 
 
-<img width="486" height="277" alt="image" src="https://github.com/user-attachments/assets/e6673478-ca49-43b2-af93-8239e21028e2" />
+<img width="338" height="223" alt="image" src="https://github.com/user-attachments/assets/d03f2664-c197-4ef7-9e18-ba65c77ed4a8" />
 
-<br>
 
 ### Canny Edge detector output
 
-<img width="786" height="486" alt="image" src="https://github.com/user-attachments/assets/fef380e7-c8c0-45e2-bb38-750d04bfe0e0" />
+<img width="648" height="392" alt="image" src="https://github.com/user-attachments/assets/960283bd-83ff-4009-b9bc-0c3d1308809d" />
 
-<br>
 
 ### Display the result of Hough transform
 
-<img width="757" height="464" alt="image" src="https://github.com/user-attachments/assets/617e05f0-933d-4a42-83d4-ed6199444c81" />
+<img width="672" height="389" alt="image" src="https://github.com/user-attachments/assets/16fa8ea1-37a5-402d-b39d-7187a073de11" />
 
-<br>
 
 ## Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform. 
